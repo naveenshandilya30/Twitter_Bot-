@@ -3,4 +3,4 @@ consumer_secret="   "
 access_token="    "
 access_secret=" "
 
-#Keys are Hidden due to security issue.. Thankyou..!!
+#Keys are Hidden due to security /privacy issue.. Thankyou..!!
