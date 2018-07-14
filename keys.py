@@ -1,6 +1,6 @@
 consumer_key="     "
 consumer_secret="   "
 access_token="    "
-access_secret=" "
+access_secret="   "
 
-#Keys are Hidden due to security /privacy issue.. Thankyou..!
+#Keys are Hidden due to security /privacy issue.. Thankyou..!!
